@@ -19,16 +19,12 @@
 
 ---
 
-### 🔥 Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak"/>
-</p>
 
 ---
 
 ### 🌐 Connect with me
 <p>
-  <a href="https://linkedin.com/in/your-link" target="https://www.linkedin.com/in/rishabh-dixit-681145326/?originalSubdomain=in">
+  <a href="https://linkedin.com/in/your-link" target="https://www.linkedin.com/in/rishabh-dixit-681145326/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
 </p>
