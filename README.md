@@ -1,77 +1,104 @@
-<!-- Replace YOUR_USERNAME, YOUR_NAME, YOUR_LINKEDIN, YOUR_EMAIL -->
+<!-- 🔥 ULTIMATE GAAND-PHAD ANIMATED GITHUB README -->
+<!-- Replace: YOUR_NAME, YOUR_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN -->
 
-<!-- Centered GIF Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&width=700&lines=Hey+%F0%9F%91%8B+I'm+YOUR_NAME;Welcome+to+my+GitHub+Profile!;CSE+Student+%7C+Developer+%7C+Learner;Always+hungry+for+new+skills+%F0%9F%94%A5" alt="Typing SVG" />
+  <!-- Mega Waving Gradient Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007a,100:ffb86b&height=220&section=header&text=YOUR_NAME&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="banner"/>
+</p>
+
+<p align="center">
+  <!-- Typing + Sparkle -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&center=true&vCenter=true&width=760&lines=Full-Stack+%7C+MERN+%7C+DSA+%26+CP;Open+Source+Hustler+%F0%9F%94%A5;Always+Building+%2F+Deploying+%F0%9F%9A%80" alt="typing"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="sparkle" width="90"/>
+</p>
+
+<p align="center">
+  <!-- Floating badges (animated gif badges + normal) -->
+  <img src="https://img.shields.io/badge/Rank-DIVIDE%20AND%20CONQUER-ff69b4?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Status--Hustling-00d1ff?style=for-the-badge&logo=hackerearth" />
+  <img src="https://img.shields.io/badge/Anime-%F0%9F%8E%AC-ffcc00?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square" alt="visitors"/>
 </p>
 
 ---
 
-<!-- Cool Banner -->
+## 🙌 Who am I
+**YOUR_NAME** — B.Tech CSE student.  
+I build fast, flashy projects and make code that ships. Mostly MERN, DBMS work, and DSA practice.
+
+---
+
+## 🛠 Tech Stack (animated icons)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=YOUR_NAME&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,cpp,git,docker" />
 </p>
 
 ---
 
-## 🌐 Connect with me
+## 🚀 Super Animated Highlights
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <!-- Neon rotating badge (using animated svg badge service) -->
+  <img src="https://img.shields.io/badge/Top%20Project-PORTFOLIO-7f00ff?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Live-ON%20GH-PURPLE?style=for-the-badge&logo=github" />
+  <img src="https://c.tenor.com/4G6w3gq9m7MAAAAC/fire.gif" alt="flame" width="60"/>
 </p>
 
 ---
 
-## ⚡ Skills & Tools
+## 📊 GitHub Stats + Activity (animated-ready)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,react,nodejs,express,mysql,mongodb,git,github,linux,vscode,docker" />
+  <!-- Stats + Top langs -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=gruvbox&count_private=true&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=gruvbox&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <!-- Activity Graph (animated-ish SVG) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&area=true&hide_border=true" alt="activity-graph"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 🔥 Streak & Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=monokai&hide_border=true" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=true&no-bg=true" height="120"/>
 </p>
 
 ---
 
-## 🏆 Trophies
+## 🐍 Contribution Snake & Heat
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&row=1&column=7&no-bg=true&no-frame=true"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 💥 Featured Projects (eye-candy cards)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+  <a href="https://github.com/YOUR_USERNAME/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=portfolio&theme=solarized-dark" /></a>
+  <a href="https://github.com/YOUR_USERNAME/dsa-solutions"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=dsa-solutions&theme=solarized-dark" /></a>
+  <a href="https://github.com/YOUR_USERNAME/dbms-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=dbms-project&theme=solarized-dark" /></a>
 </p>
 
 ---
 
-## 🎯 Goals
-✔ Master MERN Stack 🚀  
-✔ Build SaaS Projects ☁️  
-✔ Contribute to Open Source 🌍  
-✔ Crack DSA & CP Challenges ⚡  
-
----
-
-<!-- Gradient Footer -->
+## 🎬 Micro Animations (GIF gallery)
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=footer" />
+  <img src="https://media.giphy.com/media/l0Ex7O2k8Vq2GfVdW/giphy.gif" width="200" alt="code gif"/>
+  <img src="https://media.giphy.com/media/26xBIygOcC3bAWg4w/giphy.gif" width="200" alt="deploy gif"/>
+  <img src="https://media.giphy.com/media/3oKIPf3C7HqqYBVcCk/giphy.gif" width="200" alt="sparkle"/>
 </p>
 
 ---
 
-<h3 align="center">👀 Visitor Count</h3>
+## 🎯 Goals & Daily Hustle
+- Build and deploy 3 full-stack apps this year.  
+- Solve 1000 CP problems.  
+- Keep open-source contributions rolling.
+
+---
+
+## 📫 Get in touch
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_USERNAME/count.svg" />
-</p>
+  <a href=
