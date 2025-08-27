@@ -24,7 +24,7 @@
 
 ### 🌐 Connect with me
 <p>
-  <a href="https://linkedin.com/in/your-link" target="https://www.linkedin.com/in/rishabh-dixit-681145326/">
+  <a href="https://www.linkedin.com/in/rishabh-dixit-681145326/" target="https://www.linkedin.com/in/rishabh-dixit-681145326/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
 </p>
