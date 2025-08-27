@@ -2,7 +2,7 @@
 
 <!-- Animated Header -->
 <h1 align="center">
-  नमस्ते 🙏, I'm <span style="color: #00bfff;">YOUR_NAME</span>  
+ I'm <span style="color: #00bfff;">Rishabh Dixit</span>  
 </h1>
 <h3 align="center">🚀 A passionate developer & CSE Student</h3>
 
@@ -15,9 +15,9 @@
 
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/Rishabh4453"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/rishabh-dixit-681145326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:rishabh.dixit1923@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -25,11 +25,11 @@
 ## 🛠️ Tech Stack
 <p align="center">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" /><br/>
   <!-- Web & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" /><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" /><br/>
   <!-- Database & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
 </p>
 
 ---
