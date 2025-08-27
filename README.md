@@ -1,47 +1,33 @@
-<!-- Replace YOUR_USERNAME and YOUR_NAME -->
+<h1 align="center">Hey 👋, What's up?</h1>
+<p align="center">I'm <b>Rishabh</b> — a CSE Student from India 🚀</p>
 
-<!-- Animated Header -->
-<h1 align="center">
- I'm <span style="color: #00bfff;">Rishabh Dixit</span>  
-</h1>
-<h3 align="center">🚀 A passionate developer & CSE Student</h3>
+---
 
-<!-- Typing SVG Effect -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00bfff&center=true&vCenter=true&width=500&lines=Full+Stack+Learner;Open+Source+Enthusiast;Loves+DSA+%26+Problem+Solving;Always+Learning+New+Things" />
+### 👨‍💻 About me
+- ✨ Creating bugs since 2023  
+- 📚 Currently learning **DBMS, Computer Organisation,Java**  
+- 🎯 Goals: Become a full-stack developer + crack big tech 💻   
+
+---
+
+### ⚡ I code with
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,mysql,git,github,vscode" />
 </p>
 
 ---
 
-## 🌐 Connect with me
-<p align="center">
-  <a href="https://github.com/Rishabh4453"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-  <a href="https://www.linkedin.com/in/rishabh-dixit-681145326/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-  <a href="mailto:rishabh.dixit1923@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+---
+
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" /><br/>
-  <!-- Web & Frameworks -->
-  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs" /><br/>
-  <!-- Database & Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode" />
+### 🌐 Connect with me
+<p>
+  <a href="https://linkedin.com/in/your-link" target="https://www.linkedin.com/in/rishabh-dixit-681145326/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
 </p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
 ## 🔥 Streaks & Trophies
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
@@ -50,27 +36,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
-
----
-
-## 🚀 Featured Projects
-- 📌 [Project One](https://github.com/YOUR_USERNAME/project-one) — Web app for XYZ  
-- 📌 [Project Two](https://github.com/YOUR_USERNAME/project-two) — CLI tool for ABC  
-- 📌 [Project Three](https://github.com/YOUR_USERNAME/project-three) — Open-source contribution  
-
----
-
-## 🎯 Goals 2025
-- Crack **DSA** & Competitive Programming  
-- Contribute more to **Open Source**  
-- Build **real-world projects** with MERN stack  
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
-<h3 align="center">✨ Thanks for visiting my profile ✨</h3>
