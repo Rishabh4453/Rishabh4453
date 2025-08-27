@@ -1,10 +1,3 @@
-<!-- 🔥 ULTIMATE GAAND-PHAD ANIMATED GITHUB README -->
-<!-- Replace: YOUR_NAME, YOUR_USERNAME, YOUR_EMAIL, YOUR_LINKEDIN -->
-
-<p align="center">
-  <!-- Mega Waving Gradient Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007a,100:ffb86b&height=220&section=header&text=Rishabh Dixit&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38" alt="banner"/>
-</p>
 <h1 align="center">Hey 👋, What's up?</h1>
 <p align="center">I'm <b>Rishabh</b> — a CSE Student from India 🚀</p>
 
