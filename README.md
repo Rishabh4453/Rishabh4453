@@ -28,11 +28,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
   </a>
 </p>
-## 🔥 Streaks & Trophies
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160"/>
-</p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10&margin-h=10&row=1&column=6" />
 </p>
