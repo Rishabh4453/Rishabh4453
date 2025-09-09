@@ -1,6 +1,6 @@
 # Hi, I'm Rishabh 👋
 
-B.Tech CSE Student | AI & Web Developer | Open Source Enthusiast
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=4CAF50&center=true&width=500&lines=I+am+a+B.Tech+CSE+Student;AI+%26+Web+Developer;Open+Source+Enthusiast)
 
 ---
 
