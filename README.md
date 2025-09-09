@@ -28,9 +28,8 @@
 ---
 
 ### 🚀 Featured Projects
-- 📝 [**Python Programs Collection**](https://github.com/Rishabh4453/python-programs) – Basic to advanced Python practice codes  
+ 
 - 🌐 [**HTML & CSS Mini Projects**](https://github.com/Rishabh4453/html-css-projects) – Small frontend projects  
-- 📚 [**C Language Practice**](https://github.com/Rishabh4453/c-codes) – C programming practice repo  
 
 ---
 
