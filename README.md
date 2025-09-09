@@ -14,30 +14,35 @@
 ### 👨‍💻 About Me  
 - 🎓 B.Tech CSE student at **GLA University**  
 - 💻 Comfortable with **C, Python, HTML, CSS**  
-- 🚀 Currently learning new technologies step by step  
+- 🚀 Slowly learning new technologies step by step  
 - 📫 Reach me at **your_email@gmail.com**  
 - ⚡ Goal: Become a **Full Stack Developer** in future  
 
 ---
 
-### 🛠️ Tech Stack (Currently Learning & Using)
+### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,html,css,git,github" />
 </p>
 
 ---
 
-### 🚀 Projects Showcase
-- 📝 [**Python Programs Collection**](https://github.com/YOUR_USERNAME/python-programs) – Basic to advanced Python practice codes  
-- 🌐 [**HTML & CSS Mini Projects**](https://github.com/YOUR_USERNAME/html-css-projects) – Small frontend projects  
-- 📚 [**C Language Practice**](https://github.com/YOUR_USERNAME/c-codes) – C programming practice repo  
+### 🚀 Featured Projects
+- 📝 [**Python Programs Collection**](https://github.com/Rishabh4453/python-programs) – Basic to advanced Python practice codes  
+- 🌐 [**HTML & CSS Mini Projects**](https://github.com/Rishabh4453/html-css-projects) – Small frontend projects  
+- 📚 [**C Language Practice**](https://github.com/Rishabh4453/c-codes) – C programming practice repo  
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh4453&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh4453&layout=compact&theme=tokyonight" alt="langs" height="180"/>
+</p>
+
+### 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh4453&theme=tokyonight" alt="streak" height="180"/>
 </p>
 
 ---
@@ -46,5 +51,5 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:your_email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://skillicons.dev/icons?i=github" /></a>
+  <a href="https://github.com/Rishabh4453"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
