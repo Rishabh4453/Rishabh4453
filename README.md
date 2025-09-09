@@ -46,7 +46,7 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="(https://www.linkedin.com/in/rishabh-dixit-681145326/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/rishabh-dixit-681145326/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:rishabhdixit1923@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/Rishabh4453"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
