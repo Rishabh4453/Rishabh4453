@@ -1,15 +1,15 @@
 # Hi, I'm Rishabh 👋
 
-![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&color=4CAF50&center=true&width=500&lines=I+am+Rishabh;B.Tech+CSE+Student;AI+%26+Web+Developer;Open+Source+Enthusiast)
+![Typing Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&color=4CAF50&center=true&width=600&lines=Hi,+I+am+Rishabh;B.Tech+CSE+Student;AI+%26+Web+Developer;Open+Source+Enthusiast)
 
-![Banner](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif)
+![Banner](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif)
 
 ---
 
 ## 🌱 About Me
-- 💻 I’m currently exploring **Machine Learning, Web Development & Databases**  
-- 📝 I love building **AI & Web projects**  
-- ⚡ Fun fact: I enjoy experimenting with **new technologies daily**  
+- 💻 B.Tech CSE Student passionate about **AI, Web Development, and Open Source**  
+- 📝 Love building **projects that solve real-world problems**  
+- ⚡ Fun fact: I enjoy **learning new tech every day and contributing to open source**  
 
 ---
 
@@ -23,6 +23,7 @@
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -30,9 +31,9 @@
 
 | Project | Description | Demo |
 |---------|-------------|------|
-| [Portfolio Website](https://github.com/rishabh123/portfolio) | Personal website showcasing my skills | ![Portfolio GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) |
-| [AI Chatbot](https://github.com/rishabh123/AI-Chatbot) | AI Chatbot using Python & NLP | ![Chatbot GIF](https://media.giphy.com/media/26gssIytJvy1b1THO/giphy.gif) |
-| [SQL Practice](https://github.com/rishabh123/SQL-Practice) | Collection of SQL exercises | ![SQL GIF](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif) |
+| [Portfolio Website](https://github.com/rishabh123/portfolio) | Personal website showcasing my skills and projects | ![Portfolio GIF](https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif) |
+| [AI Chatbot](https://github.com/rishabh123/AI-Chatbot) | AI Chatbot using Python & NLP | ![Chatbot GIF](https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif) |
+| [SQL Practice](https://github.com/rishabh123/SQL-Practice) | Collection of SQL exercises | ![SQL GIF](https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif) |
 
 ---
 
@@ -53,4 +54,14 @@
 
 ![Visitor Count](https://profile-counter.glitch.me/rishabh123/count.svg)
 
-⭐ **Feel free to explore my projects and connect with me!**
+---
+
+### 💡 Extra Fun & Animated Badges
+![Visitor Badge](https://img.shields.io/badge/Visitors-∞-brightgreen?style=for-the-badge&logo=github)
+![Coding Badge](https://img.shields.io/badge/Coding-Fun-red?style=for-the-badge&logo=codechef)
+![Open Source](https://img.shields.io/badge/Open-Source-blue?style=for-the-badge&logo=github)
+![Learning](https://img.shields.io/badge/Learning-Everyday-yellow?style=for-the-badge&logo=readthedocs)
+
+---
+
+⭐ **Feel free to connect with me, explore my projects, and collaborate!**
