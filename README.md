@@ -40,18 +40,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh4453&layout=compact&theme=tokyonight" alt="langs" height="180"/>
 </p>
 
-### 🔥 GitHub Streak
-### 🔥 GitHub Streak
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rishabh4453&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 
 ---
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/rishabh-dixit-681145326/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="(https://www.linkedin.com/in/rishabh-dixit-681145326/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="mailto:rishabhdixit1923@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/Rishabh4453"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
