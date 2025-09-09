@@ -41,9 +41,11 @@
 </p>
 
 ### 🔥 GitHub Streak
+### 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rishabh4453&theme=tokyonight" alt="streak" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=Rishabh4453&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 
