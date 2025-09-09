@@ -4,7 +4,7 @@
 </p>
 
 <!-- Name + Animated Intro -->
-<h1 align="center">Hi 👋, I'm Rishabh</h1>
+<h1 align="center">Hi 👋, I'm Rishabh Dixit</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C0FF&center=true&vCenter=true&width=600&lines=C+%7C+Python+Programmer;Frontend+Learner+(HTML+%26+CSS);B.Tech+CSE+Student;Aspiring+Full+Stack+Developer" />
 </p>
@@ -15,7 +15,7 @@
 - 🎓 B.Tech CSE student at **GLA University**  
 - 💻 Comfortable with **C, Python, HTML, CSS**  
 - 🚀 Slowly learning new technologies step by step  
-- 📫 Reach me at **your_email@gmail.com**  
+- 📫 Reach me at **rishabhdixit1923@gmail.com**  
 - ⚡ Goal: Become a **Full Stack Developer** in future  
 
 ---
@@ -49,7 +49,7 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-  <a href="mailto:your_email@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/rishabh-dixit-681145326/)"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="mailto:rishabhdixit1923@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
   <a href="https://github.com/Rishabh4453"><img src="https://skillicons.dev/icons?i=github" /></a>
 </p>
