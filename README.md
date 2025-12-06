@@ -33,12 +33,6 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rishabh4453&show_icons=true&theme=tokyonight" alt="stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rishabh4453&layout=compact&theme=tokyonight" alt="langs" height="180"/>
-</p>
-
 
 
 ---
